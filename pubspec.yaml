@@ -1,0 +1,56 @@
+name: galmoji
+description: "ギャル文字"
+
+publish_to: 'none'
+
+version: 1.2.0+8
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  share_plus: ^12.0.0
+  shared_preferences: ^2.0.17
+  google_mobile_ads: ^7.0.0
+  just_audio: ^0.10.4
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  in_app_review: ^2.0.11
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.3.5
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "assets/icon/icon_back.png"
+  adaptive_icon_foreground: "assets/icon/icon_fore.png"
+
+flutter_native_splash:
+  color: '#c80064'
+  image: 'assets/image/splash.png'
+  color_dark: '#c80064'
+  image_dark: 'assets/image/splash.png'
+  fullscreen: true
+  android_12:
+    icon_background_color: '#c80064'
+    image: 'assets/image/splash.png'
+    icon_background_color_dark: '#c80064'
+    image_dark: 'assets/image/splash.png'
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/image/
+    - assets/sound/
+
+
