@@ -7,12 +7,12 @@ A specialized text transformation tool built with **Flutter** that converts stan
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌟 Overview
-This application is designed specifically for the **Japanese market**, offering a nostalgic yet modern way to engage with a unique aspect of Japan's digital subculture. 
+This application is designed specifically for the **Japanese market**, offering a nostalgic yet modern way to engage with a unique aspect of Japan's digital subculture.
 
 - **Creative Character Mapping:** Transform standard text into a visually complex "Galmoji" style.
-- **Optimized for Japanese:** Fine-tuned to handle the complexities of Japanese Hiragana, Katakana, and Kanji.
+- **Bi-lingual Support:** Optimized for both **Japanese and English** users interested in Japanese slang.
 - **Cross-Platform:** High-performance rendering on both Android and iOS powered by Flutter.
-- **Privacy First:** All text processing is done locally on the device.
+- **Privacy First:** All text processing is performed locally on the device.
 
 ## 🛠 Technical Overview
 - **Framework:** Flutter
@@ -23,7 +23,7 @@ This application is designed specifically for the **Japanese market**, offering 
 *Note: This repository contains the core logic and source code. Assets (images, fonts, and localization files) are excluded to protect intellectual property.*
 
 ## 🌏 About the Project
-This app is part of a global initiative to release **50+ high-quality mini-apps**. While some apps are localized for 50+ languages, this specific tool is a dedicated tribute to Japanese digital culture.
+This app is part of a global initiative to release **50+ high-quality mini-apps**. While many apps in this portfolio support 50+ languages, this specific tool is a dedicated tribute to Japanese digital culture, localized in Japanese and English.
 
 ### Explore the Portfolio
 - [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7155639697967205469)
