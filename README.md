@@ -29,7 +29,8 @@ This application is designed specifically for the **Japanese market**, offering 
 This app is part of a global initiative to release **50+ high-quality mini-apps**. While many apps in this portfolio support 50+ languages, this specific tool is a dedicated tribute to Japanese digital culture, localized in Japanese and English.
 
 ### Explore the Portfolio
-- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7155639697967205469)
+- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7266451443285436081)
+- [App Store Developer Page](https://apps.apple.com/developer/akira-ohmachi/id1338624340)
 - [YouTube Channel - Try This App Now](https://www.youtube.com/@TryThisAppNow)
 
 ---
