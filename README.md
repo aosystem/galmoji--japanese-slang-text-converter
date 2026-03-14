@@ -6,6 +6,9 @@ A specialized text transformation tool built with **Flutter** that converts stan
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6472480243)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/R1o0rWMFJA0/0.jpg)](https://www.youtube.com/watch?v=R1o0rWMFJA0)
+
 ## 🌟 Overview
 This application is designed specifically for the **Japanese market**, offering a nostalgic yet modern way to engage with a unique aspect of Japan's digital subculture.
 
